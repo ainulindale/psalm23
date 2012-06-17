@@ -11,7 +11,7 @@ Licensed under a Creative Commons Attribution-ShareAlike 3.0 Australia License
 Composition Status
 ------------------
 
-This piece of this piece is complete.
+The composition of this piece is complete.
 
 
 Typesetting Status
