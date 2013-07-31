@@ -1,5 +1,5 @@
-psalm23
-=======
+Psalm 23
+========
 
 Setting of Psalm 23 for 6-part choir
 
